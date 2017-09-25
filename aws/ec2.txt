@@ -1,2 +1,6 @@
+
 this is not test job
 this is the best job for do dev
+this is aws ec2-ubuntu macine instance
+u are not do any change permisstion
+
