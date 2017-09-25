@@ -1,0 +1,3 @@
+this is network idea
+add to firewall to ec2
+:`
